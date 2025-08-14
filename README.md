@@ -1,5 +1,5 @@
 <!-- 헤더: 캡슐 렌더 (capsule‑render) – 제목 및 스타일 지정 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Boris%20%7C%20Java%20Backend%20Engineer&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Boris%20%7C%20Backend%20Engineer&fontSize=60)
 
 # Hello :) I'm Boris
 
