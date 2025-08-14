@@ -1,5 +1,5 @@
 <!-- 헤더: 캡슐 렌더 (capsule‑render) – 제목 및 스타일 지정 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=박석현%20%7C%20Java%20백엔드%20엔지니어&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Boris%20%7C%20Java%20Backend%20Engineer&fontSize=60)
 
 # Hello :) I'm Boris
 
@@ -16,11 +16,16 @@ My life as a developer revolves around these keywords:
 
 ---
 
-##  사용 기술 및 SNS 링크
+##  TEch & SNS
 <!-- Badge 활용 – Shields.io -->
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring‑Boot-6DB33F?style=flat-square&logo=spring‑boot&logoColor=white"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java‑17-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<!-- 아이콘은 shields.io 또는 simple icons 기준으로 표시 --> 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
+</p>
 
 ---
 
