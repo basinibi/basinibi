@@ -1,6 +1,7 @@
 <!-- 헤더: 캡슐 렌더 (capsule‑render) – 제목 및 스타일 지정 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&width=100%&section=header&text=Boris%20%7C%20Backend%20Engineer&fontSize=60)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=88cc88&height=180&section=header&text=Boris%20%7C%20Backend%20Engineer&fontSize=35&fontColor=ffffff" />
+</p>
 # Hello :) I'm Boris
 
 I write code to grow my career, earn money, and have fun doing it.
