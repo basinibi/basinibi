@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=88cc88&height=180&section=header&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&section=header&text=Boris%20%7C%20Backend%20Engineer&fontSize=35&fontColor=ffffff" />
 </p>
