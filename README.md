@@ -34,7 +34,6 @@
 
 ##  GitHub Actions
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basinibi)](https://github.com/basinibi)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basinibi)](https://github.com/basinibi)
 
 ---
 
