@@ -57,8 +57,6 @@
 - **Email**: johann1314@gmail.com  
 - **Linked In**: [링크 삽입]
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&section=header&text=Boris%20%7C%20Backend%20Engineer&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&section=header&fontSize=35&fontColor=ffffff" />
 </p>
